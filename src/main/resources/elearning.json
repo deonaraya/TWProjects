@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "origId": "%s",
+      "type": "ELEARNING",
+      "title": "JFK test data",
+      "description": "frank Course Description",
+      "shortName": "%s",
+      "createdDate": "20160215",
+      "modifiedDate": "20160215",
+      "sourcelms": "cte",
+      "startDate": "20160215",
+      "launchUrl": "http://www.yahoo.com",
+      "active": true,
+      "managerApprovalRequired": "true",
+      "enablecompletion": "true",
+      "category": "CTE",
+      "optional": [
+        {
+          "key": "product",
+          "value": "CCNA",
+          "includeinfilter": "true"
+        },
+        {
+          "key": "technology",
+          "value": "Networking",
+          "includeinfilter": "true"
+        },
+        {
+          "key": "tasks",
+          "value": "video, certification",
+          "includeinfilter": "true"
+        }
+
+      ]
+    }
+  ]
+
+
+}

@@ -1,0 +1,30 @@
+{
+
+  "courses": [
+    {
+      "origId": "%s",
+      "type": "THIRDPARTY",
+      "title": "CTE-My ThirdParty Course",
+      "description": "My ThirdParty Course Description",
+      "shortName": "%s",
+      "createdDate": "20160215",
+      "modifiedDate": "20160215",
+      "sourcelms": "CTE",
+      "startDate": "20160215",
+      "launchUrl": "https://www.cisco.com",
+      "active": true,
+      "managerApprovalRequired": "true",
+      "enablecompletion": "true",
+      "category": "CTE",
+      "optional": [
+        {
+          "key": "place",
+          "value": "New Delhi",
+          "includeinfilter": "true"
+        }
+      ]
+    }
+  ]
+
+
+}

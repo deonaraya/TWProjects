@@ -1,0 +1,47 @@
+{
+
+  "courses": [
+    {
+      "origId": "%s",
+      "type": "ILT",
+      "title": "CTE-My ILT Course",
+      "description": "ILT Course Description",
+      "shortName": "%s",
+      "startDate": "20160215",
+      "createdDate": "1469177400",
+      "modifiedDate": "1469184500",
+      "sourcelms": "CTE",
+      "active": true,
+      "managerApprovalRequired": "true",
+      "enablecompletion": "true",
+      "category": "CTE",
+      "ILT":[
+        {
+          "origSessionId" : "%s",
+          "session-title": "ILT Session 1",
+          "session-description": "Description of ILT Session 1",
+          "launchUrl": "http://www.cisco.com",
+          "startDate": "1469177400",
+          "endDate": "1469184900",
+          "location-city": "Bangalore",
+          "location-country": "IND",
+          "location-state": "Karnataka",
+          "location-address": "Cisco - Cessna Buiseness Park",
+          "location-room": "BGL-12",
+          "instructor": "",
+          "duration": "60",
+          "capacity": "50"
+        }
+      ],
+      "optional": [
+        {
+          "key": "place",
+          "value": "New Delhi",
+          "includeinfilter": "true"
+        }
+      ]
+    }
+  ]
+
+
+}

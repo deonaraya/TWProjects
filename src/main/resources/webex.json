@@ -1,0 +1,40 @@
+{
+
+  "courses": [
+    {
+      "origId": "%s",
+      "type": "WEBEX",
+      "title": "CTE-My WebEX Course",
+      "description": "My WebEX Course Description",
+      "shortName": "%s",
+      "createdDate": "1469177400",
+      "modifiedDate": "1469184500",
+      "sourcelms": "CTE",
+      "startDate": "20160215",
+      "active": true,
+      "managerApprovalRequired": "true",
+      "enablecompletion": "true",
+      "category": "CTE",
+      "WebEX":[
+        {
+          "origSessionId" : "%s",
+          "launchUrl": "https://clks.webex.com",
+          "session-title": "WebEX Session 1",
+          "session-description": "WebEX Session 1 Description",
+          "startDate": "1469177400",
+          "instructor": "",
+          "duration": "20"
+        }
+      ],
+      "optional": [
+        {
+          "key": "place",
+          "value": "New Delhi",
+          "includeinfilter": "true"
+        }
+      ]
+    }
+  ]
+
+
+}
